@@ -1,3 +1,6 @@
+.net core 3.1 using ef core in memory database.
+Just need to run the unit tests, data is seeded from ModelBuilderExtentions
+
 # Hey developers, engineers, hackers. 
 **This is important!** We want to respect your valuable time so **_PLEASE_** timebox this exercise.
 
